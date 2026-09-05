@@ -104,7 +104,7 @@ Are you an SME looking to scale with AI automation, or a brand needing a GTM dig
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ashesh-thakur-1b6583183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.lucidmediax.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="LucidMediax" height="30" width="40" /></a>
+<a href="https://www.lucidmediax.in/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain--v1.png" alt="LucidMediax Website" height="32" width="32" style="margin: 0 4px;" /></a>
 <a href="https://www.youtube.com/@SIMPLYASHNETR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="SimplyAshnetr YT" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ashnetr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashnetr YT" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/ashnetr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="Twitch" height="30" width="40" /></a>
