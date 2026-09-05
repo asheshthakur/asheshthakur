@@ -10,7 +10,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🚀 **Currently working on:** GTM, AI Product Strategy & Product Launch at **Revent**. (UAE/GCC), focusing on AI agents and SME business automation, product launch, and marketing.
+- 🚀 **Currently working on:** GTM, AI Product Strategy & Product Launch at **Revent** (UAE/GCC), focusing on AI agents and SME business automation, product launch, and marketing.
 - 🏢 **Founder:** Running **[LucidMediax](https://www.lucidmediax.in/)**, a comprehensive digital marketing agency. We drive brand growth through SEO, GEO, Email Marketing, Content & Influencer Marketing, and end-to-end Design.
 - 🎓 **Academic Focus:** MBA Candidate at **IMT Ghaziabad**, specializing in Business Administration, Market Research, and strategic frameworks (PESTEL, Porter's Five Forces).
 - 🎬 **Content Creator:** I stream gaming content on Twitch, run dual YouTube channels, and share short fun life vlogs on Instagram.
@@ -67,6 +67,12 @@
   <img src="https://img.shields.io/badge/DaVinci%20Resolve-1E1E1E?style=for-the-badge&logo=Davinci-Resolve&logoColor=white" alt="DaVinci Resolve" />
 </p>
 
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=asheshthakur&show_icons=true&theme=tokyonight&hide_border=true" alt="Ashesh's GitHub Stats" />
+</p>
 
 ---
 
@@ -76,6 +82,21 @@
 *   **SME Automation Pipelines:** End-to-end operational flows connecting CRMs, social channels, and team databases (via n8n/Make) to automate lead generation and follow-ups.
 *   **Web & Multimedia Campaigns:** Dynamic WordPress websites, cinematic video assets, vertical promotional content, and full-scale branding for events and agencies.
 *   **Data-Driven Strategies:** Leveraging Tableau, GA4, YouTube Analytics, and market research to optimize product launches and GTM strategies.
+
+---
+
+### 💼 Featured Work & Case Studies
+*(Upload your workflows, project briefs, or case studies to GitHub and link them here!)*
+* 🚀 **[Project Name 1](#):** An automated n8n workflow for SME lead generation.
+* 🛍️ **[IndieBlend E-commerce Concept](#):** Front-end layout structures for a boutique fashion brand.
+* 📊 **[Market Research Data Pipeline](#):** SPSS data cleaning and statistical restructuring for market analysis.
+
+---
+
+### 🤝 Let's Collaborate
+Are you an SME looking to scale with AI automation, or a brand needing a GTM digital strategy? Let's talk.
+- ✉️ **Email me:** [work.asheshthakur@gmail.com](mailto:work.asheshthakur@gmail.com)
+- 🌐 **Agency Website:** [LucidMediax](https://www.lucidmediax.in/)
 
 ---
 
@@ -89,3 +110,9 @@
 <a href="https://www.twitch.tv/ashnetr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="Twitch" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ashnetr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
+
+---
+
+### 🎥 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
