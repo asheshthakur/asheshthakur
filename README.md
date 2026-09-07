@@ -112,7 +112,3 @@ Are you an SME looking to scale with AI automation, or a brand needing a GTM dig
 </p>
 
 ---
-
-### 🎥 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
