@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ashesh Thakur 👋</h1>
+<h1 align="center">Hey there, I'm Ashesh Thakur 👋</h1>
 
 <h3 align="center">GTM, AI Product Strategist & Founder @ LucidMediax</h3>
 
