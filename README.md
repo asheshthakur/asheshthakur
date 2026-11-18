@@ -97,6 +97,7 @@
 Are you an SME looking to scale with AI automation, or a brand needing a GTM digital strategy? Let's talk.
 - ✉️ **Email me:** [work.asheshthakur@gmail.com](mailto:work.asheshthakur@gmail.com)
 - 🌐 **Agency Website:** [LucidMediax](https://www.lucidmediax.in/)
+- 🌐 **VEYA:** [VEYA](https://app.lucidmediax.in/)
 
 ---
 
